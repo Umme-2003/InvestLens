@@ -1,0 +1,4 @@
+# backend/scripts/requirements.txt
+python-pptx
+pytesseract
+Pillow

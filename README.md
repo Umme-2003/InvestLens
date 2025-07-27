@@ -5,9 +5,13 @@ An advanced full-stack application designed to automate the initial screening of
 ## Live Demo & Video
 
 [![InvestLens Demo Video](https://img.youtube.com/vi/67oy2fytAu4/0.jpg)](https://youtu.be/67oy2fytAu4)
-https://vimeo.com/1104897778?share=copy
-[![InvestLens Demo Video](https://img.vimeo.com/1104897778?share=copy.jpg)](https://vimeo.com/1104897778?share=copy)
+
+## Live Demo & Video
+
+[![InvestLens Project Demo](https://vumbnail.com/1104897778.jpg)](https://vimeo.com/1104897778)
+
 *Click the image above to watch the full video walkthrough.*
+
 ## Key Features
 
 *   **Full User Authentication:** Secure user registration and login with both email/password and Google OAuth 2.0.

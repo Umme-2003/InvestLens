@@ -4,10 +4,6 @@ An advanced full-stack application designed to automate the initial screening of
 
 ## Live Demo & Video
 
-[![InvestLens Demo Video](https://img.youtube.com/vi/67oy2fytAu4/0.jpg)](https://youtu.be/67oy2fytAu4)
-
-## Live Demo & Video
-
 [![InvestLens Project Demo](https://vumbnail.com/1104897778.jpg)](https://vimeo.com/1104897778)
 
 *Click the image above to watch the full video walkthrough.*
@@ -27,7 +23,7 @@ An advanced full-stack application designed to automate the initial screening of
 
 | Category      | Technology                                    |
 |---------------|-----------------------------------------------|
-| **Frontend**  | React.js, Material-UI (MUI), Axios            |
+| **Frontend**  | React.js, Material-UI (MUI), Axios, React Router |
 | **Backend**   | Node.js, Express.js, Sequelize, Passport.js   |
 | **Database**  | PostgreSQL                                    |
 | **AI & ML**   | Google Gemini API, Tesseract (via `pytesseract`) |
@@ -46,4 +42,6 @@ To run this project on your local machine, please follow these steps:
 **2. Clone the Repository:**
 ```bash
 git clone https://github.com/Umme-2003/InvestLens
-cd AutomatedInvestmentThesis
+cd InvestLens
+
+

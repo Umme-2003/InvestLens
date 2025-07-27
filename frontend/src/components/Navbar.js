@@ -9,7 +9,7 @@ const Navbar = ({ token, handleLogout }) => {
       <Toolbar>
         {/* 'flexGrow: 1' makes the title take up all available space, pushing the button to the right */}
         <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-          KaroStartup Pitch Deck Analyzer
+          InvestLens
         </Typography>
         {/* Only show the logout button if a token exists */}
         {token && <Button color="inherit" onClick={handleLogout}>Logout</Button>}

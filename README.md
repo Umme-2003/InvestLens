@@ -38,5 +38,5 @@ To run this project on your local machine, please follow these steps:
 
 **2. Clone the Repository:**
 ```bash
-git clone [Your-GitHub-Repo-URL]
-cd [your-project-folder]
+git clone https://github.com/Umme-2003/InvestLens
+cd AutomatedInvestmentThesis

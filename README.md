@@ -4,9 +4,6 @@ An advanced full-stack application designed to automate the initial screening of
 
 ## Live Demo & Video
 
-*[After you deploy, you can put a link to the live application here. For now, you can link to your video walkthrough.]*
-
-*   **Video Walkthrough:** [Link to your YouTube/Vimeo demo video]
 
 ## Key Features
 
